@@ -12,4 +12,4 @@ I currently work on the **Build & Deploy Team** where we own and maintain common
 
 #### Github Stats
 
-![Scott's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottx611x&hide=tex,html,hcl,css,jupyter%20notebook&layout=compact)
+![Scott's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottx611x&hide=tex,html,hcl,css,php,jupyter%20notebook&layout=compact)
