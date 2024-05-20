@@ -12,8 +12,6 @@ Recently I've been kicking the tires on: https://github.com/scottx611x/hcl-playg
 * Get up to speed with the world of Kubernetes
 * Solve some terraform protoyping toil that I've run into relating to the `terraform console` workflow
 
-Check it out! -> https://development.hcl-playground.com/
-
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/-scott-ouellette-)
