@@ -6,9 +6,7 @@ I'm Scott Ouellette, a **DevOps Engineer** at [Videa Health](https://www.videa.a
 
 ## Side Projects
 
-Recently I've been kicking the tires on: https://github.com/scottx611x/hcl-playground to:
-* Get up to speed with the world of Kubernetes
-* Solve some terraform protoyping toil that I've run into relating to the `terraform console` workflow
+Recently I wired up a [grip strength tracker to grafana](https://github.com/scottx611x/grip-tracker) to track mine and my coworker's grip strength over time 🔥
 
 ## Contact Me
 
