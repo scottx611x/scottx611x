@@ -1,17 +1,25 @@
-### Hi there! 👋 😄
+### Hi there! 👋
 
 ## About
 
-I'm Scott Ouellette, a **DevOps Engineer** at [Videa Health](https://www.videa.ai/).
+I'm Scott Ouellette — **Engineer/Birder living in North Andover, MA.**
 
-## Side Projects
+By day I build and automate cloud infrastructure; the rest of the time I'm out photographing the local birds. More at [scott-ouellette.com](https://www.scott-ouellette.com).
 
-Recently I wired up a [grip strength tracker to grafana](https://github.com/scottx611x/grip-tracker) to track mine and my coworker's grip strength over time 🔥
+## What I'm working on
 
-## Contact Me
+- **[hcl-playground](https://github.com/scottx611x/hcl-playground)** — evaluate HCL in the browser with Terraform or OpenTofu; version-aware, no install or init/console loop. → [hcl-playground.com](https://hcl-playground.com)
+- **[DUCKODUCKO 🦆](https://github.com/scottx611x/DUCKODUCKO)** — a whimsical top-down, tap-to-hop duck roguelike built in Godot. Play instantly → [duckoducko.scott-ouellette.com](https://duckoducko.scott-ouellette.com)
+- **[bird-photography-pipeline](https://github.com/scottx611x/bird-photography-pipeline)** — a one-screen pipeline for my bird photography: Synology → Lightroom → Buffer → Instagram.
+- **[grip-tracker](https://github.com/scottx611x/grip-tracker)** — a modded grip tracker that funnels my (and my coworkers') grip strength into Grafana. 🔥
+- **[google-photos-archiver](https://github.com/scottx611x/google-photos-archiver)** — a fast, extensible tool to back up Google Photos anywhere.
 
-- [LinkedIn](https://www.linkedin.com/in/-scott-ouellette-)
+## Around the web
 
-#### Github Stats
+- 🌐 [scott-ouellette.com](https://www.scott-ouellette.com)
+- 📷 [@birdsofnorthandover](https://www.instagram.com/birdsofnorthandover/) — birds of North Andover, MA
+- 💼 [LinkedIn](https://www.linkedin.com/in/-scott-ouellette-)
+
+#### GitHub Stats
 
 ![Scott's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottx611x&hide=tex,html,hcl,css,php,jupyter%20notebook&layout=compact)
