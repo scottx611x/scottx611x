@@ -4,7 +4,7 @@
 
 I'm Scott Ouellette — **Engineer/Birder living in North Andover, MA.**
 
-By day I build and automate cloud infrastructure; the rest of the time I'm out photographing the local birds. More at [scott-ouellette.com](https://www.scott-ouellette.com).
+By day I build and automate the effective building out of cloud infrastructure; the rest of the time I'm probably out photographing the local birds. More at [scott-ouellette.com](https://www.scott-ouellette.com).
 
 ## What I'm working on
 
